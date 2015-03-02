@@ -3,10 +3,10 @@
 <title>Life</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="format-detection" content="telephone=no">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300">
 <style>
 html{
-	font-family: Open Sans, Helvetica, Arial, sans-serif;
+	font-family: "Anonymous Pro","Source Code Pro","Ubuntu Mono","Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 14px/21px "Anonymous Pro","Source Code Pro","Ubuntu Mono","Helvetica Neue", Helvetica, Arial, sans-serif;
 	cursor: -webkit-grab;
 	cursor: -moz-grab;
 	cursor: grab;
@@ -16,8 +16,8 @@ html{
 }
 body{
 	min-height: 100%;
-	color: #fff;
-	background-color: #384047;
+	color: #CFCFCF;
+	background-color: #333;
 	margin: 0;
 	padding: 0;
 	font-size: 12px;
@@ -26,6 +26,7 @@ body{
 }
 a{
 	color: #fff;
+
 }
 header{
 	position: fixed;
@@ -45,11 +46,12 @@ header a:hover{
 h1{
 	display: inline;
 	font-size: 20px;
-	font-weight: normal;
+	font-weight: bold;
 	line-height: 1em;
 	opacity: .5;
 	z-index: 3;
-	font-weight: 300;
+	font-weight: 300 bold;
+
 	white-space: nowrap;
 }
 #life{
@@ -61,7 +63,7 @@ h1{
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	border-left: 1px dashed rgba(255,255,255,.1);
-	color: rgba(255,255,255,.3);
+	color: #EE7B00;
 	position: absolute;
 	top: 0;
 	bottom: 0;
@@ -79,21 +81,22 @@ h1{
 }
 #life .event b{
 	font-weight: normal;
-	color: rgba(255,255,255,.5);
+	color: #CFCFCF;
+	opacity: 0.7;
 }
 #life .event .time{
 	display: inline-block;
 	overflow: hidden;
 	height: 0;
-	border: 4px solid #fff;
+	border: 4px solid #EE7B00;
 	border-radius: 4px;
 	margin-right: 10px;
-	opacity: .3;
+	opacity: 0.7;
 	position: relative;
 	left: -2px;
 }
 #life .event:hover .time{
-	opacity: .5;
+	opacity: 1;
 }
 </style>
 <header>
