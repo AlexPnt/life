@@ -3,8 +3,9 @@
 
 - 09/2007-06/2010 High School - Science and Technology Course
 - 09/2010-06/2013 B.Sc. - Informatics Engineering
-- 09/2013-06/2015 M.Sc. - Informatics Engineering
+- 09/2013-09/2016 M.Sc. - Informatics Engineering
 - 10/2013-03/2014 Software Developer - [LIS@IPN](https://www.ipn.pt/si/unidades/detalhesunidade.do?init=1&unidadeID=11)
 - 04/2014 - Attended [ENEI 2014](http://www.eneiaveiro.pt)
 - 09/10/2014 - Attended [PT.JUG](http://jug.pt/2014/11/09/meeting-18/)@[BLIP](http://www.blip.pt)
-- 03/2015 - Attended [ENEI 2015](http://www.enei.pt/)
+- 03/2015 - Attended [ENEI 2015](http://www.enei.pt)
+- 17/06/2016 - Attended [SLATE 2016](http://natura.di.uminho.pt/wiki/doku.php?id=slusate)
